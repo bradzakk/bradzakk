@@ -6,7 +6,7 @@ Presently, I am working on learning and building a foundation on how to use the 
 
 Inclusively, I am learning Front End Development + React JS, HTML & CSS, Git & GitHub, Coding Responsive Websites, JavaScript Fundamentals, JavaScript React, User Design (UX), and Graphic/Visual design.
 
-I am also working on my website to showcase my portfolio: tapedeck.ca
+I am also working on my website to showcase my portfolio: https://tapedeck.ca
 
 <!--
 **bradzakk/bradzakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
