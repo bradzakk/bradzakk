@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Brad 👋
+
+I am an aspiring front-end developer currently studying and refreshing my talents within computer technology.
+
+Presently, I am working on learning and building a foundation on how to use the most popular and essential collaboration and version control tools, including GIT, GITHUB and the Command Line.
+
+I am also working on my website to showcase my portfolio.
 
 <!--
 **bradzakk/bradzakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
