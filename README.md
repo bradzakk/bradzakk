@@ -4,6 +4,8 @@ I am an aspiring front-end developer currently studying and refreshing my talent
 
 Presently, I am working on learning and building a foundation on how to use the most popular and essential collaboration and version control tools, including GIT, GITHUB and the Command Line.
 
+Inclusively, I am learning Front End Development + React JS, HTML & CSS, Git & GitHub, Coding Responsive Websites, JavaScript Fundamentals, JavaScript React, User Design (UX), and Graphic/Visual design.
+
 I am also working on my website to showcase my portfolio.
 
 <!--
