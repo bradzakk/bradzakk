@@ -1,6 +1,6 @@
 ### Hi, I'm Brad 👋
 
-<img align="left" width="#" height="#" src="https://lastfm.freetls.fastly.net/i/u/avatar170s/7e6ff7c844f8d18fb05e21245815f897.png">I am an aspiring front-end developer currently studying and refreshing my talents within computer technology.
+<a href="https://www.last.fm/user/bradzakk" target="_blank"><img align="left" width="#" height="#" src="https://lastfm.freetls.fastly.net/i/u/avatar170s/7e6ff7c844f8d18fb05e21245815f897.png" alt="bradzakk's Music Profile | Last.fm"></a>I am an aspiring front-end developer currently studying and refreshing my talents within computer technology.
 
 Presently, I am working on learning and building a foundation on how to use the most popular and essential collaboration and version control tools, including GIT, GITHUB and the Command Line.
 
