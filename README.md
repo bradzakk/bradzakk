@@ -4,7 +4,7 @@
 
 Presently, I am working on learning and building a foundation on how to use the most popular and essential collaboration and version control tools, including [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk "Crash Course") and the [Command Line](https://www.youtube.com/watch?v=uwAqEzhyjtw).
 
-Inclusively, I am learning Front End Development + React JS, HTML & CSS, [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk "Crash Course"), Coding Responsive Websites, JavaScript Fundamentals, [JavaScript React](https://reactjs.org/tutorial/tutorial.html "Tutorial"), [User Design (UX)](https://www.youtube.com/watch?v=A_BnFSHNRaU "Crash Course"), and Graphic/Visual Design, including Adobe Creative Cloud.
+Inclusively, I am learning Front End Development + React JS, HTML & CSS, [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk "Crash Course"), Coding Responsive Websites, [JavaScript Fundamentals](https://www.youtube.com/watch?v=vEROU2XtPR8), [JavaScript React](https://reactjs.org/tutorial/tutorial.html "Tutorial"), [User Design (UX)](https://www.youtube.com/watch?v=A_BnFSHNRaU "Crash Course"), and Graphic/Visual Design, including Adobe Creative Cloud.
 
 <!-- I am also working on my website to showcase my portfolio: https://tapedeck.ca -->
 
